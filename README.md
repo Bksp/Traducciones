@@ -1,4 +1,8 @@
-# SOME MODS EN LATINO
+<div align="center">
+
+![](./some_mods_en_latino.png)
+
+</div>
 
 I have translated some mods, I have corrected some translations.
 Although I uploaded them to their respective Githubs, they probably don't have the support for old versions.
