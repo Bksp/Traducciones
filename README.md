@@ -1,5 +1,4 @@
-# Traducciones
-Traducciones de mods al español
+# SOME MODS EN LATINO
 
 I have translated some mods, I have corrected some translations.
 Although I uploaded them to their respective Githubs, they probably don't have the support for old versions.
@@ -14,6 +13,7 @@ Así que homologué este pack. que pretendo ir actualizando con el tiempo.
 
 Supported Mods are:
 
+```
 abundant_atmosphere
 additionaladditions
 advancednetherite
@@ -51,3 +51,4 @@ weaponmaster
 wildberries
 windswept
 woodworks
+```
