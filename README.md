@@ -1,6 +1,6 @@
 <div align="center">
 
-![](./some_mods_en_latino.png)
+![](./some_mods_en_latino_ba.png)
 
 </div>
 
